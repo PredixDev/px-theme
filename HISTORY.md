@@ -1,3 +1,7 @@
+v3.1.3
+================
+* put back 3.1.0 css rules for :host>*
+
 v3.1.2
 ================
 * add disabled color for tree
