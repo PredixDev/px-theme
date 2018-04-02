@@ -934,4 +934,10 @@ html {
 
   // Row Details
   --px-data-grid-cell-details-background-color            :  $gray7;
+
+  // Custom Charts
+  --pce-floating-bar-color                                :  $cyan1;
+  --pce-floating-bar-hover-color                          :  $cyan3;
+  --pce-floating-bar-range-markers-color                  :  $cyan8;
+  --pce-floating-bar-actual-value-markers-color           :  $violet8;
 }
