@@ -41,5 +41,6 @@
         "webcomponentsjs": "^0.7"
       }
     }
-  }
+  },
+  "license": "https://raw.githubusercontent.com/predixdesignsystem/px-icon-set/master/LICENSE.md"
 }
